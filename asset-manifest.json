@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/joorchin/static/css/main.5fe5bdce.css",
+    "main.js": "/joorchin/static/js/main.387dce9b.js",
+    "static/js/787.bfb099b0.chunk.js": "/joorchin/static/js/787.bfb099b0.chunk.js",
+    "static/media/picture.png": "/joorchin/static/media/picture.9319a6f11d9d37cce218.png",
+    "static/media/3.png": "/joorchin/static/media/3.037a5e10098516c8e865.png",
+    "static/media/1.png": "/joorchin/static/media/1.bc024f87953f57fe4fad.png",
+    "static/media/2.png": "/joorchin/static/media/2.702416dfc42de1c7e7d7.png",
+    "index.html": "/joorchin/index.html",
+    "main.5fe5bdce.css.map": "/joorchin/static/css/main.5fe5bdce.css.map",
+    "main.387dce9b.js.map": "/joorchin/static/js/main.387dce9b.js.map",
+    "787.bfb099b0.chunk.js.map": "/joorchin/static/js/787.bfb099b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fe5bdce.css",
+    "static/js/main.387dce9b.js"
+  ]
+}
