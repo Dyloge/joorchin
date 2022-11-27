@@ -1,0 +1,55 @@
+.container {
+    color: beige;
+}
+.ourServices {
+    width: 125px;
+height: 24px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    margin: 0 104px 160px 104px;
+
+
+}
+.uxResearch:hover, .specialContent:hover, .webDevelopment:hover
+, .design:hover{ 
+    box-shadow: 1px 4px 5px rgb(243, 243, 81);
+   -webkit-transition:  box-shadow .6s ease-in;
+ }
+.uxResearch, .specialContent, .webDevelopment, .design {
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    width: 312px;
+    height: 216px;
+    background: #020616;
+    border-radius: 8px;
+    padding: 25px 50px 59px 78px;
+    cursor: pointer;
+    box-shadow: 0px 0px 0px rgb(243, 243, 81);
+    -webkit-transition:  box-shadow .6s ease-out;
+       box-shadow: .8px .9px 3px rgb(243, 243, 81);
+
+}
+
+
+.item {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+}
